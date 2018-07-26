@@ -9,14 +9,14 @@
     "Scoop": "ops@takescoop.com"
   },
   "source": {
-    "git": "https://github.com/TakeScoop/SwiftyRSA.git",
-    "tag": "1.4.0"
+    "git": "https://github.com/madnik/SwiftyRSA.git",
+    "tag": "1.4.1"
   },
   "source_files": "SwiftyRSA/*.{swift,m,h}",
   "exclude_files": "SwiftyRSA/SwiftyRSA+ObjC.swift",
   "frameworks": "Security",
   "requires_arc": true,
-  "swift_version": "4.1",
+  "swift_version": "4.2",
   "platforms": {
     "ios": "8.3",
     "tvos": "9.2",
