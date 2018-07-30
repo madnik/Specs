@@ -1,6 +1,6 @@
 {
   "name": "SwiftyRSA",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "Public key RSA encryption in Swift.",
   "description": "Encrypt with a RSA public key, decrypt with a RSA private key.",
   "homepage": "https://github.com/TakeScoop/SwiftyRSA",
